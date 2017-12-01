@@ -9,6 +9,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/colors" />
+            <option value="$PROJECT_DIR$/family" />
+            <option value="$PROJECT_DIR$/familymembers" />
+            <option value="$PROJECT_DIR$/numbers" />
+            <option value="$PROJECT_DIR$/phrases" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

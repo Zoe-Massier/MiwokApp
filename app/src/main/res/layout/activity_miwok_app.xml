@@ -18,31 +18,8 @@
         android:textSize="30dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:id="@+id/activity_miwok_Language_Learner"/>
-    <Button
-        android:layout_width="150dp"
-        android:layout_height="200dp"
-        android:layout_alignParentBottom="true"
-        android:color="#f44336"
-        android:padding="20dp"
-        />
-    <Button
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:color="#009688"
-        android:layout_marginTop="80dp"
-        />
-    <Button
-        android:layout_width="160dp"
-        android:layout_height="200dp"
-        android:color="#FFC107"
-        android:layout_marginTop="80dp"
-        android:layout_marginLeft="200dp"
-    <Button
-        android:layout_width="160dp"
-        android:layout_height="200dp"
-        android:color="#FFC107"
-        android:layout_marginBottom="80dp"
-        android:layout_marginLeft="200dp"
+        android:id="@+id/activity_miwok_Language_Learner"
+        hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
 
 </RelativeLayout>

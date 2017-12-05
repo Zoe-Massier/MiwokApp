@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MiwokApp.iml" filepath="$PROJECT_DIR$/MiwokApp.iml" />
-      <module fileurl="file://C:\Users\592506\AndroidStudioProjects\MiwokApp\MiwokApp.iml" filepath="C:\Users\592506\AndroidStudioProjects\MiwokApp\MiwokApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\592506\AndroidStudioProjects\MiwokApp\app\app.iml" filepath="C:\Users\592506\AndroidStudioProjects\MiwokApp\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/colors/colors.iml" filepath="$PROJECT_DIR$/colors/colors.iml" />
       <module fileurl="file://$PROJECT_DIR$/family/family.iml" filepath="$PROJECT_DIR$/family/family.iml" />
       <module fileurl="file://$PROJECT_DIR$/familymembers/familymembers.iml" filepath="$PROJECT_DIR$/familymembers/familymembers.iml" />

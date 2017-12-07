@@ -9,5 +9,7 @@ public class Family extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_family);
+
+        LinearLayout rootView =(LinearLayout) findViewById(R.id.rootView);
     }
 }

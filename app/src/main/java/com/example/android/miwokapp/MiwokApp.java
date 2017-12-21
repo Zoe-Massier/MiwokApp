@@ -14,5 +14,6 @@ public class MiwokApp extends AppCompatActivity {
 
 
         androidFlavor.Add
+                
     }
 }
